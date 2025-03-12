@@ -1,2 +1,1 @@
-Vor dem Start folgendes im Terminal ausführen:
-# pip install -r requirements.txt
+In diesem Workshop wird eine KI für das Erkennen von Zahlen trainiert.
